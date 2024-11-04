@@ -15,5 +15,7 @@ pip install colorama
 3. Done. To start site open main.py.
 ## Using
 You can use Localgram even with a **weak internet connection or no internet connection at all**. *You can also use it to communicate with colleagues, family, and friends*.
+
+***To clear messages close site and open clear_messages.py***.
 ## Code
 The backend is completely written in Python using Flask library. Also some client-side functions are implemented using JavaScript.
