@@ -1,5 +1,4 @@
 import flask
-import random
 from app.databaser import *
 from flask import *
 
