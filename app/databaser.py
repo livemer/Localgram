@@ -1,6 +1,4 @@
 import sqlite3
-import secrets
-import os
 import datetime
  
 def open_connection():

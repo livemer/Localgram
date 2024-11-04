@@ -1,13 +1,9 @@
 import flask
-import os.path
 import random
 from app.databaser import *
 from flask import *
 
 app = flask.Flask(__name__)
-
-def getRandTemp():
-    return f"{random.randrange(40,95)}°c"
 
 @app.route('/')
 def index():
